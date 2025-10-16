@@ -33,20 +33,20 @@ function hello() {
 
 ### Bảng so sánh Git vs GitHub
 
-| Tính năng | Git | GitHub
+| Tính năng | Git | GitHub|
 |----------|-----|--------|
-Version Control | ✅ | ✅
-Remote Repository | ❌ | ✅  
+|Version Control | ✅ | ✅|
+|Remote Repository | ❌ | ✅  |
 | Issue Tracking | ❌ | ✅ |
-Pull Requests | ❌ | ✅
+|Pull Requests | ❌ | ✅|
 
-####Kết luận
+#### Kết luận
 
 Git và GitHub là công cụ không thể thiếu cho developer hiện đại.
 
 **Để tìm hiểu thêm:**
 1. Đọc documentation
-2 Làm tutorial
+2. Làm tutorial
 3. Practice với project thực tế
 
 > **Ghi chú**: File này được tạo để luyện tập sửa lỗi Markdown!
