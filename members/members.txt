@@ -11,7 +11,7 @@
 
 <!-- Thêm thông tin của bạn ở dưới dòng này -->
 - Maintainer - HUST/IT - maintainer@example.com - @maintainer
-
+- Nguyen Manh Linh - HUST/TE1 - Linh.NM2520055@sis.hust.edu.vn - @sjsjsnix
 <!-- 
 Ví dụ:
 - Nguyễn Văn A - HUST/CNTT - vana@gmail.com - @vana123
