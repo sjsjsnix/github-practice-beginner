@@ -24,7 +24,7 @@
 2. **Vietnam Open Robotics Challenge (VORC 2024)** — Code nhóm thể hiện tinh thần học hỏi, teamwork và thực hành Git/GitHub chuyên nghiệp.
 
 ## 🎮 Sở thích
-- 🎵 Nghe nhạc: EDM, R&B  
+- 🎵 Nghe nhạc: EDM, R&B, Ballad, Rap
 - 📚 Đọc sách: Tâm lý học, Sigmund Freud  
 - ⚽ Thể thao: Bơi  
 - 🎯 Khác: Đạp xe  
