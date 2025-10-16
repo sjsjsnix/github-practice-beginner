@@ -29,6 +29,11 @@
 - ⚽ Thể thao: Bơi  
 - 🎯 Khác: Đạp xe  
 
+## 🎯 Định hướng tương lai
+- Nâng cao kỹ năng lập trình và làm việc nhóm.  
+- Học chuyên sâu về AI, Machine Learning và phát triển phần mềm thực tế.  
+- Tham gia các dự án mã nguồn mở trên GitHub để tích lũy kinh nghiệm.
+
 ## 💭 Quote yêu thích
 > “Ne vous comparez pas aux autres, tout le monde est meilleur que vous.”
 
