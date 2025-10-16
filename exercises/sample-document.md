@@ -29,7 +29,7 @@ function hello() {
 
 ## Image Example
 
-!(GitHub Logo)(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ### Bảng so sánh Git vs GitHub
 
