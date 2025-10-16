@@ -17,11 +17,11 @@ GitHub là một platform phát triển phần mềm rất phổ biến.
 - [Docs](https://docs.github.com) 
 - [Link bị hỏng](https://broken-link.com)
 
-### Code Example
+###Code Example
 
 Đây là ví dụ JavaScript:
 
-```js
+```
 function hello() {
     console.log("Hello World!");
 }
@@ -29,24 +29,24 @@ function hello() {
 
 ## Image Example
 
-!(GitHub Logo)(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+!(GitHub Logo)[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png]
 
 ### Bảng so sánh Git vs GitHub
 
-| Tính năng           | Git | GitHub |
-|----------------------|-----|--------|
-| Version Control      | ✅  | ✅ |
-| Remote Repository    | ❌  | ✅ |
-| Issue Tracking       | ❌  | ✅ |
-| Pull Requests        | ❌  | ✅ |
+| Tính năng | Git | GitHub
+|----------|-----|--------|
+Version Control | ✅ | ✅
+Remote Repository | ❌ | ✅  
+| Issue Tracking | ❌ | ✅ |
+Pull Requests | ❌ | ✅
 
-#### Kết luận
+####Kết luận
 
 Git và GitHub là công cụ không thể thiếu cho developer hiện đại.
 
 **Để tìm hiểu thêm:**
 1. Đọc documentation
-2. Làm tutorial
+2 Làm tutorial
 3. Practice với project thực tế
 
 > **Ghi chú**: File này được tạo để luyện tập sửa lỗi Markdown!
