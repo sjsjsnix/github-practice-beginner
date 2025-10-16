@@ -17,11 +17,11 @@ GitHub là một platform phát triển phần mềm rất phổ biến.
 - [Docs](https://docs.github.com) 
 - [Link bị hỏng](https://broken-link.com)
 
-###Code Example
+### Code Example
 
 Đây là ví dụ JavaScript:
 
-```
+```js 
 function hello() {
     console.log("Hello World!");
 }
